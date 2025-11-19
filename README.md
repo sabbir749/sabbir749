@@ -2,10 +2,17 @@
 
 <br/>
 
-<h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1>
+<div align="center">
+  <h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1>
 
-<!--- title --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=000BF7&width=435&lines=Hello%2C+There...;Nice+to+meet+you!;This+is++Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer)](https://git.io/typing-svg)
+  <!-- Typing SVG -->
+  <p align="center">
+    <a href="https://github.com/sabbir749/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=000BF7&width=435&lines=Hello%2C+There...;Nice+to+meet+you!;This+is++Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer" alt="Typing SVG" />
+    </a>
+  </p>
+</div>
+
 
 <br/>
 
