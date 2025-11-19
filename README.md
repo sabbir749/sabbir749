@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir749&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir749" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **Html, Css, Javascript, Tailwind Css, React JS, NodeJS, Express Js, MongoDB**
 
