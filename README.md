@@ -6,7 +6,7 @@
   <div align="center">
     <h1 style="display: inline-block">Hi 👋, I'm Sabbir Hossain</h1>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=A700A3&center=true&width=635&lines=Hi%2C+There...;Nice+to+meet+you!;This+is+Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer" /></a>
+    <a href="https://github.com/Sabbir-Coder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=A700A3&center=true&width=635&lines=Hi%2C+There...;Nice+to+meet+you!;This+is+Sabbir+Hossain...;A+Passionate+Frontend+Web+Developer" /></a>
   </div>
 
 
@@ -16,7 +16,7 @@
 
 
 <!--- about --->
-- 👋 Hi, I’m **[@Sabbir Hossain](https://github.com/sabbir749)**
+- 👋 Hi, I’m **[@Sabbir Hossain](https://github.com/Sabbir-Coder)**
 - 🖥️ I’m currently working on **Html, Css, Javascript, Tailwind, React.js ** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB ** for the backend.
 - 🛠️ I’m currently learning **MongoDB, NextJS **.
@@ -25,7 +25,7 @@
 <br/>
 
 ## <img src="/svg2.webp"  width="39" alt="svg"> Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbir1647) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabbir-hossain-07960520a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sabbir_213924) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbir213924@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbir1647) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coder-sabbir/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sabbir_213924) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbir213924@gmail.com) 
 
 #  <img src="/svg3.webp"  width="39" alt="svg"> Tech Stack:
 ___Frontend___: <br/><br/>
